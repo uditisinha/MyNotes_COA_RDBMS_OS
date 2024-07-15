@@ -1,4 +1,4 @@
-# Notes_COA_RDBMS_OS
+# Notes_RDBMS_OS
 
 <h2>This repository contains hand-written notes that I made for RDBMS and OS.</h2>
 <h3>Relational Database Management System (RDBMS)</h3>
