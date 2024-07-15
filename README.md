@@ -11,10 +11,12 @@
 </ul>
 
 <h3>Operating System (OS)</h3>
+<ul>
   <li>Introduction to System software(Module 1): This module introduces system software, covering various system programs like assemblers, loaders, linkers, macro processors, compilers, interpreters, operating systems, and device drivers. It includes OS objectives and functions, evolution, design for multiprocessor and multicore architectures, OS structures, system calls, Linux kernel and shell, and system boot.</li><br>
   <li>Process Concept and scheduling (Module 2): This module covers process concepts and scheduling, including process states, descriptions, control blocks, and operations. It discusses threads, multithreading, multicore processors, and thread types. It also covers uniprocessor scheduling, preemptive and non-preemptive scheduling, scheduling algorithms (FCFS, SJF, SRTN, Priority, Round Robin, Multilevel Queue), thread scheduling, and Linux scheduling.</li><br>
   <li>Input output and file management (Module 4): This module covers file management and I/O management. It includes file organization, access, directories, sharing, secondary storage management, Linux Virtual File System, I/O devices, OS design issues, I/O buffering, disk scheduling algorithms (FCFS, SSTF, SCAN, CSCAN, LOOK, CLOOK), disk management, and Linux I/O.</li><br>
   <li>Storage management (Module 5): This module covers storage management, focusing on main memory concepts (swapping, contiguous allocation, paging, segmentation, and 32/64-bit architectures) and virtual memory (demand paging, page replacement, allocation, thrashing, and kernel memory management).</li><br>
+</ul>
 
 <h3>Reference Books:</h3>
 <h4>RDBMS:</h4>
