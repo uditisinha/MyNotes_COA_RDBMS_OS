@@ -26,6 +26,13 @@
 </ul>
 
 <h3>Reference Books:</h3>
+<h4>COA:</h4>
+<ul>
+  <li>
+    <strong>Computer Organization and Architecture: Designing for Performance (Seventh Edition)</strong><br>
+    William Stallings
+  </li>
+</ul>
 <h4>RDBMS:</h4>
 <ul>
   <li>
