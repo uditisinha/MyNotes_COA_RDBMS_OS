@@ -1,6 +1,13 @@
-# Notes_RDBMS_OS
+# Notes_COA_RDBMS_OS
 
-<h2>This repository contains hand-written notes that I made for RDBMS and OS.</h2>
+<h2>This repository contains hand-written notes that I made for COA, RDBMS and OS.</h2>
+<h3>Computer Organization and Architecture (COA)</h3>
+<ul>
+  <li>Memory Organization (Module 4): This module explores memory system characteristics and hierarchy, covering main and cache memory, ROM and RAM types, high-speed memories, cache organization, virtual memory, and RAID levels.</li><br>
+  <li>I/O Organization (Module 5): This module covers I/O organization, including external devices, I/O modules, programmed I/O, interrupt-driven I/O, and DMA.</li><br>
+  <li>Multiprocessor Configurations (Module 6): This module covers multiprocessor configurations, including Flynn’s classification, parallel processing systems, pipeline processing and hazards, pipeline architecture design issues, six-stage instruction pipelining, and 8086 instruction set (arithmetic, logical, data transfer instructions).</li>
+</ul>
+
 <h3>Relational Database Management System (RDBMS)</h3>
 <ul>
   <li>Introduction (Module 1): This module covers database basics, comparing them to file systems, and discusses data independence, DBMS architecture, and the role of Database Administrators.</li><br>
