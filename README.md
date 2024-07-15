@@ -14,7 +14,7 @@
   <li>Data Modeling (Module 2): This module covers data modeling, focusing on the Enhanced-Entity-Relationship (EER) and Relational Data Models. It includes the benefits, types, and phases of data modeling, ER and EER models, generalization, specialization, aggregation, and mapping EER to the relational model.</li><br>
   <li>Relational Algebra and Structure Query Language (Module 3): This module covers relational algebra and SQL, focusing on queries, data definition and manipulation, constraints, set operations, views, nested queries, triggers, and security and authorization.</li><br>
   <li>Query Processing and optimization (Module 4): This module covers query processing and optimization, including indexing concepts, hashing methods, query processing steps and costs, algorithms for SELECT and PROJECT operations, and optimization techniques.</li><br>
-  <li>Transaction Management, Concurrency control and Recovery protocols (Module 6): This module covers transaction management, concurrency control, and recovery protocols, including transaction concepts and states, ACID properties, concurrency control methods, deadlock handling, and recovery systems like log-based recovery and shadow paging.</li><br>
+  <li>Transaction Management, Concurrency control and Recovery protocols (Module 6): This module covers transaction management, concurrency control, and recovery protocols, including transaction concepts and states, ACID properties, concurrency control methods, deadlock handling, and recovery systems like log-based recovery and shadow paging.</li>
 </ul>
 
 <h3>Operating System (OS)</h3>
