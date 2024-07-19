@@ -1,7 +1,7 @@
 # Notes_COA_RDBMS_OS
 
-<h2>This repository contains hand-written notes that I made for COA, RDBMS and OS.</h2>
-<h3>Computer Organization and Architecture (COA)</h3>
+This repository contains hand-written notes that I made for COA, RDBMS and OS.</h2>
+<h3>Computer Organization and Architecture (COA)
 <ul>
   <li>Memory Organization (Module 4): This module explores memory system characteristics and hierarchy, covering main and cache memory, ROM and RAM types, high-speed memories, cache organization, virtual memory, and RAID levels.</li><br>
   <li>I/O Organization (Module 5): This module covers I/O organization, including external devices, I/O modules, programmed I/O, interrupt-driven I/O, and DMA.</li><br>
